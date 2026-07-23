@@ -61,7 +61,6 @@ https://subhasree-portfolio.web.app
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -162,11 +161,11 @@ Interactive browser-based game.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/subhasree0305/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:msubhasreecse145@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
