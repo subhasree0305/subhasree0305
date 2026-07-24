@@ -30,7 +30,12 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,mysql,firebase,git,github,vscode,postman&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,mysql,vscode,git,postman" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
