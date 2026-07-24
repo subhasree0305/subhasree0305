@@ -1,142 +1,90 @@
-# Hi there 👋, I'm Subha Sree M
+# Hi there 👋, I'm **Subha Sree M**
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C853,50:00BCD4,100:2979FF&text=SUBHA%20SREE%20M&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20|%20Web%20Developer%20|%20Problem%20Solver&descAlignY=55"/>
+</p>
 
-### 💻 Final Year Computer Science Engineering Student
-### ☕ Java Full Stack Developer | 🌱 Web Developer | 🚀 Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Frontend+%7C+Backend+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Learner;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
 # 🚀 About Me
 
 - 🎓 Final Year B.E. Computer Science Engineering Student
-- 💚 Passionate about Full Stack Web Development
-- ☕ Strong in Java, JDBC, Servlets & JSP
+- ☕ Java Full Stack Developer
 - 🌱 Learning Spring Boot, REST APIs & Modern Web Technologies
-- 💻 Love building real-world web applications
-- 📚 Currently improving DSA and Problem Solving
-- 🎯 Goal: Become a Software Engineer
+- 💻 Passionate about Full Stack Development
+- 📚 Improving DSA & Problem Solving
+- 🎯 Goal: Software Engineer
 
 ---
 
 # 🌐 Portfolio
 
-### 🔗 Portfolio Website
-
-https://subhasree-portfolio.web.app
+- 🔗 https://subhasree-portfolio.web.app
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,mysql,firebase,git,github,vscode,postman&perline=6"/>
+</p>
 
 ---
 
-## Frontend
+# 📊 Skills
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
-
-![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
----
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```text
+Java           ██████████████ 95%
+HTML/CSS       ██████████████ 98%
+JavaScript     ████████████░░ 90%
+MySQL          █████████████░ 94%
+Node.js        █████████░░░░░ 75%
+Spring Boot    ██████████░░░░ 80%
+Git            ████████████░░ 88%
+```
 
 ---
 
 # 📌 Featured Projects
 
-## 🥬 FreshKartFarm
-
-Hyperlocal terrace farming marketplace connecting urban farmers with consumers.
-
-### Features
+## 🌿 FreshKartFarm
+Hyperlocal terrace farming marketplace.
 
 - Farmer Dashboard
 - Customer Dashboard
-- Secure Login
-- OTP Verification
 - Admin Panel
+- OTP Authentication
 - Product Management
 - Order Tracking
-- Responsive UI
+- Firebase Hosting
 
----
-
-## 🌦 Weather Application
-
+## 🌦 Weather App
 Responsive weather application using OpenWeather API.
 
----
-
 ## ✅ To-Do Planner
-
-Modern productivity application for task management.
-
----
+Task management with CRUD operations.
 
 ## 🎓 Student Management System
-
-CRUD-based student management application.
-
----
+Java CRUD application.
 
 ## 🎮 Tic Tac Toe
-
-Interactive browser-based game.
+Interactive browser game.
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=subhasree0305&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree0305&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhasree0305&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree0305&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree0305&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree0305&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -144,49 +92,44 @@ Interactive browser-based game.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=subhasree0305&theme=algolia&row=1&column=7"/>
-
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Activity Graph
 
-[![Subha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhasree0305&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhasree0305&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/subhasree0305/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:msubhasreecse145@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://subhasree-portfolio.web.app">
-<img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/subhasree0305"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:msubhasreecse145@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/subhasree0305"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Philosophy
 
-> *"Code with purpose. Learn with curiosity. Build with passion."*
+```java
+while(alive){
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=subhasree0305&style=for-the-badge&color=00C853"/>
+</p>
 
-### ⭐ Thanks for visiting my profile!
-
-![Visitor Count](https://komarev.com/ghpvc/?username=subhasree0305&style=for-the-badge&color=22C55E)
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00C853,50:00BCD4,100:2979FF"/>
+</p>
