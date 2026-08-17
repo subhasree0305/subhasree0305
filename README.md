@@ -1,725 +1,737 @@
-<!-- ===================================================== -->
-<!--                PREMIUM GITHUB README                  -->
-<!--                     PART 1                            -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C853,50:00BCD4,100:2979FF&text=SUBHA%20SREE%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20React%20Developer%20•%20Problem%20Solver&descAlignY=58"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 👋 Hello World! I'm Subha Sree M
-
-
-</div>
----
-
-# 🌟 Welcome
-
-> **"Programming is not just about writing code.  
-> It is about solving problems, creating value, and continuously improving."**
-
-I'm **Subha Sree M**, a passionate **Java Full Stack Developer** from **India 🇮🇳** who enjoys creating beautiful, scalable, and user-friendly applications.
-
-I believe in writing **clean code**, designing **responsive interfaces**, and continuously expanding my technical knowledge through real-world projects.
-
----
-
-# 🚀 Quick Navigation
-
-<p align="center">
-
-<a href="#-about-me">
-<img src="https://img.shields.io/badge/About_Me-00C853?style=for-the-badge"/>
-</a>
-
-<a href="#-current-focus">
-<img src="https://img.shields.io/badge/Current_Focus-2196F3?style=for-the-badge"/>
-</a>
-
-<a href="#-connect-with-me">
-<img src="https://img.shields.io/badge/Connect-FF9800?style=for-the-badge"/>
-</a>
-
-<a href="#-coding-profiles">
-<img src="https://img.shields.io/badge/Coding_Profiles-E91E63?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 👨‍💻 About Me
-
-<table>
-
-<tr>
-
-<td>
-
-### 💙 Who Am I?
-
-🎓 Computer Science Engineering Graduate
-
-💻 Java Full Stack Developer
-
-⚛️ React Developer
-
-🌱 Spring Boot Learner
-
-📚 Strong in Java, SQL & Web Technologies
-
-🚀 Passionate about Full Stack Development
-
-🧠 Love solving real-world problems
-
-🤝 Team Player & Fast Learner
-
-🎯 Looking for Software Engineer Opportunities
-
-</td>
-
-
-
-</tr>
-
-</table>
-
----
-
-
----
-
-# 🎯 Career Objective
-
-```java
-public class CareerGoal {
-
-    public static void main(String[] args){
-
-        while(true){
-
-            Learn();
-
-            Build();
-
-            Improve();
-
-            ShareKnowledge();
-
-            Repeat();
-
-        }
-
-    }
-
-}
-```
-
----
-
-<p align="center">
-<i>Technologies I use to transform ideas into real-world applications.</i>
-</p>
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-### ⚛ Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
-
----
-
-### ☕ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-### 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
----
-
-### 🔧 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=eclipse"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
-</div>
-
----
-
-
-
----
-
-# 💼 What I Build
-
-# 🛠 Development Environment
-
-```yaml
-Operating System:
-    Windows 11
-
-IDE:
-    VS Code
-    Eclipse IDE
-
-Languages:
-    Java
-    JavaScript
-    HTML
-    CSS
-    SQL
-
-Database:
-    MySQL
-
-Version Control:
-    Git
-    GitHub
-
-Deployment:
-    Firebase Hosting
-
-Design:
-    Figma
-
-API Testing:
-    Postman
-```
-
-
----
-
-<div align="center">
-
-## 💬 Favourite Quote
-
-> **"Success is built one commit, one bug fix, and one lesson at a time."**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00C853,50:00BCD4,100:2979FF"/>
-
-</div>
-
-<!-- ====================== END PART 2 ===================== -->
-<!-- ====================================================== -->
-<!--                 PREMIUM README - PART 3                -->
-<!-- ====================================================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D47A1,35:2979FF,70:00BCD4,100:00C853&text=SUBHA%20SREE%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20REACT%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=59&descSize=18"/>
 
 <br>
 
-<h1 align="center">🚀 Featured Projects</h1>
-
-<p align="center">
-<i>Projects that reflect my learning journey and passion for building real-world applications.</i>
-</p>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌿 FreshKartFarm
-
-**Hyperlocal Terrace Farming Marketplace**
-
-### ✨ Features
-
-- 👨‍🌾 Farmer Dashboard
-- 🛒 Customer Dashboard
-- 👨‍💼 Admin Panel
-- 🔐 Authentication
-- 📦 Product Management
-- 🛍 Order Tracking
-- 📊 Admin Analytics
-- 🔥 Firebase Hosting
-
-### 🛠 Tech Stack
-
-`Java` `JSP` `Servlet` `MySQL` `HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🥥 Jackora
-
-**Tender Coconut & Coconut Products Website**
-
-### ✨ Features
-
-- 🌴 Premium Landing Page
-- 📱 Responsive Design
-- 🛒 Product Showcase
-- 💬 Contact Section
-- ⚡ Fast Performance
-- 🎨 Modern UI
-- 🔥 React Components
-
-### 🛠 Tech Stack
-
-`React` `JavaScript` `CSS`
-
-<br>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🌦 Weather App
-
-✔ Live Weather
-
-✔ OpenWeather API
-
-✔ Responsive UI
-
-✔ Search City
-
-✔ Dynamic Icons
-
-### Tech
-
-`HTML`
-`CSS`
-`JavaScript`
-`REST API`
-
-</td>
-
-<td width="50%">
-
-## 🎓 Student Management
-
-✔ CRUD Operations
-
-✔ Java Swing
-
-✔ MySQL Database
-
-✔ Search Student
-
-✔ Update/Delete
-
-### Tech
-
-`Java`
-`MySQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ✅ To-Do Planner
-
-✔ Task Management
-
-✔ Add/Edit/Delete
-
-✔ Responsive
-
-✔ Local Storage
-
-### Tech
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-</td>
-
-<td width="50%">
-
-## 🎮 Tic Tac Toe
-
-✔ Two Player
-
-✔ Winner Detection
-
-✔ Responsive
-
-✔ Clean UI
-
-### Tech
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 My Development Journey
-
-```text
-2022
-│
-├── Started Computer Science Engineering
-│
-2023
-│
-├── Learned HTML • CSS • JavaScript
-│
-├── Built Mini Projects
-│
-2024
-│
-├── Java Development
-│
-├── Database Design
-│
-├── Student Management System
-│
-2025
-│
-├── React Development
-│
-├── FreshKartFarm
-│
-├── Weather App
-│
-├── Portfolio Website
-│
-2026
-│
-└── Preparing for Software Engineer Roles 🚀
-```
-
----
-
-# 🏆 Achievements
-
-<table>
-
-<tr>
-
-<td>
-
-🥇 Project Presentation Winner
-
-</td>
-
-<td>
-
-🏅 Symposium Participant
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-💻 Coders Club Coordinator
-
-</td>
-
-<td>
-
-🎯 Team Project Leader
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🤝 Team Collaboration
-
-</td>
-
-<td>
-
-🚀 Continuous Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📜 Certifications
-
-| Certification | Status |
-|---------------|--------|
-| ☕ Java Full Stack Development | ✅ |
-| ⚛ React Development | ✅ |
-| 🌐 Web Development | ✅ |
-| 🗄 SQL & MySQL | ✅ |
-| 🐙 Git & GitHub | ✅ |
-
----
-
-# 🎓 Education
-
-| Degree | Institution | Status |
-|---------|-------------|--------|
-| 🎓 B.E Computer Science Engineering | Velammal Engineering College | Graduated |
-| 🏫 Higher Secondary | Completed | ✅ |
-| 🏫 SSLC | Completed | ✅ |
-
----
-
-# 🌟 Leadership & Responsibilities
-
-### 💼 Coders Club Coordinator
-
-- 👨‍💻 Guided junior students
-- 🤝 Organized coding activities
-- 📢 Coordinated technical events
-- 🚀 Encouraged collaborative learning
-
----
-
-# 🥋 Sports & Extracurricular
-
-🏅 Athletics
-
-🥋 Silambam
-
-🏃 Marathon
-
-🥋 Karate
-
-🇮🇳 NCC Activities & Camps
-
----
-
----
-
-<div align="center">
-
-## 🌟 "The best way to predict the future is to build it."
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00C853,50:00BCD4,100:2979FF"/>
-
-</div>
-
-<!-- ================= END PART 3 ================= -->
-<!-- ====================================================== -->
-<!--                 PREMIUM README - PART 4                -->
-<!-- ====================================================== -->
-
-<br>
-
-<h1 align="center">📊 GitHub Analytics</h1>
-
-<p align="center">
-<i>My coding activity and GitHub journey.</i>
-</p>
-
----
-
-<div align="center">
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree0305&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree0305&theme=tokyonight"/>
-
-</div>
-
----
-
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasree0305&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> **Enable GitHub Actions to generate this animation automatically.**
-
-<img src="https://raw.githubusercontent.com/subhasree0305/subhasree0305/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
-# 💬 Random Developer Wisdom
-
-<div align="center">
-
-> **"Code is like humour. When you have to explain it, it's bad."** — *Cory House*
-
-<br>
-
-> **"First, solve the problem. Then, write the code."** — *John Johnson*
-
-<br>
-
-> **"Learning never exhausts the mind—it expands it."**
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://subhasree-portfolio.web.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/subhasree0305">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/subhasree0305">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:msubhasreecse145@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💙 Thanks for Visiting
-
-<div align="center">
-
-### ⭐ If you enjoyed exploring my work, consider giving a ⭐ to my repositories!
-
-<img src="https://komarev.com/ghpvc/?username=subhasree0305&style=for-the-badge&color=00C853"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=00E676&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Learner;Problem+Solver;C%23+Learner;Building+Real-World+Applications"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00C853,50:00BCD4,100:2979FF"/>
+<a href="https://github.com/subhasree0305">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://subhasree-portfolio.web.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-2979FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/subhasree0305">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=subhasree0305&label=PROFILE%20VIEWS&style=for-the-badge&color=00C853"/>
 
 </div>
 
-<!-- ====================================================== -->
-<!--                  END OF README                         -->
-<!-- ====================================================== -->
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:2979FF,50:00BCD4,100:00C853"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<p><strong>👋 HELLO WORLD!</strong></p>
+
+<h1>I'm Subha Sree M 👩‍💻</h1>
+
+<p><strong>Java Full Stack Developer • React Developer • Problem Solver</strong></p>
+
+<br>
+
+<p>
+<i>
+"Programming is not just about writing code.<br>
+It is about solving problems, creating value, and continuously improving."
+</i>
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00C853,50:00BCD4,100:2979FF"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<p><strong>🧭 QUICK NAVIGATION</strong></p>
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-00C853?style=for-the-badge"/></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-2979FF?style=for-the-badge"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-9C27B0?style=for-the-badge"/></a>
+  <a href="#-development-journey"><img src="https://img.shields.io/badge/Journey-FF9800?style=for-the-badge"/></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Analytics-E91E63?style=for-the-badge"/></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-00BCD4?style=for-the-badge"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:2979FF,50:00BCD4,100:00C853"/>
+</div>
+
+<br>
+
+<a id="-about-me"></a>
+
+<div align="center">
+
+<p><strong>👨‍💻 ABOUT ME</strong></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2500&pause=900&color=2979FF&center=true&vCenter=true&width=500&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Turning+Ideas+Into+Applications;Growing+One+Project+At+A+Time"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table width="92%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>💙 WHO AM I?</strong></p>
+
+<br>
+🎓 Computer Science Engineering Graduate
+<br>
+💻 Java Full Stack Developer
+<br>
+🌱 Spring Boot Learner
+<br>
+📚 Strong in Java, SQL & Web Technologies
+<br>
+🚀 Passionate about Full Stack Development
+<br>
+🧠 Love solving real-world problems
+<br>
+🤝 Team Player & Fast Learner
+<br>
+🎯 Looking for Software Engineer Opportunities
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🎯 CAREER OBJECTIVE</strong></p>
+
+<br>
+
+<pre align="left">
+public class CareerGoal {
+
+    public static void main(String[] args) {
+
+        while (true) {
+
+            Learn();
+            Build();
+            Improve();
+            ShareKnowledge();
+            Repeat();
+        }
+    }
+}
+</pre>
+
+<br>
+
+<strong>Learn continuously.</strong><br> <strong>Build meaningful products.</strong><br> <strong>Improve every day.</strong>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00C853,50:00BCD4,100:2979FF"/>
+</div>
+
+<br>
+
+<a id="-tech-stack"></a>
+
+<div align="center">
+
+<p><strong>🚀 TECH STACK</strong></p>
+
+<p><i>Technologies I use to learn, build and experiment.</i></p>
+
+<br>
+
+<p><strong>👨‍💻 PROGRAMMING LANGUAGES</strong></p>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+
+<br>
+
+<p><strong>⚛️ FRONTEND</strong></p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
+<br>
+
+<p><strong>☕ BACKEND</strong></p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
+
+<br>
+
+<p><strong>🗄️ DATABASE</strong></p>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+
+<br>
+
+<p><strong>🔧 TOOLS</strong></p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:2979FF,50:00BCD4,100:00C853"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<p><strong>💬 FAVOURITE QUOTE</strong></p>
+
+<br>
+
+<i>"Success is built one commit, one bug fix, and one lesson at a time."</i>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:9C27B0,40:673AB7,70:2979FF,100:00BCD4&section=header&text=FEATURED%20PROJECTS&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
+
+<a id="-featured-projects"></a>
+
+<div align="center">
+
+<p><strong>🚀 FEATURED PROJECTS</strong></p>
+
+<p><i>Projects that reflect my learning journey and passion for real-world applications.</i></p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table width="92%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🌿 FRESHKARTFARM</strong></p>
+
+<p><i>Hyperlocal Terrace Farming Marketplace</i></p>
+
+<br>
+
+<p><strong>✨ FEATURES</strong></p>
+
+<p align="left">
+👨‍🌾 Farmer Dashboard<br>
+🛒 Customer Dashboard<br>
+👨‍💼 Admin Panel<br>
+🔐 Authentication<br>
+📦 Product Management<br>
+🛍️ Order Tracking<br>
+📊 Admin Analytics<br>
+🔥 Firebase Hosting
+</p>
+
+<p><strong>🛠️ TECHNOLOGY</strong></p>
+
+<p>
+<code>Java</code>
+<code>JSP</code>
+<code>Servlet</code>
+<code>MySQL</code>
+<br>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
+
+<br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🥥 JACKORA</strong></p>
+
+<p><i>Tender Coconut & Coconut Products Website</i></p>
+
+<br>
+
+<p><strong>✨ FEATURES</strong></p>
+
+<p align="left">
+🌴 Premium Landing Page<br>
+📱 Responsive Design<br>
+🛒 Product Showcase<br>
+💬 Contact Section<br>
+⚡ Fast Performance<br>
+🎨 Modern UI<br>
+🔥 React Components
+</p>
+
+<p><strong>🛠️ TECHNOLOGY</strong></p>
+
+<p>
+<code>React</code>
+<code>JavaScript</code>
+<code>CSS</code>
+</p>
+
+<br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="92%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🌦️ WEATHER APP</strong></p>
+
+<p><i>Live weather application with city search.</i></p>
+
+<br>
+
+<p>
+✔ Live Weather<br>
+✔ OpenWeather API<br>
+✔ Responsive UI<br>
+✔ Search City<br>
+✔ Dynamic Icons
+</p>
+
+<p>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>REST API</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🎓 STUDENT MANAGEMENT</strong></p>
+
+<p><i>Desktop CRUD application for student management.</i></p>
+
+<br>
+
+<p>
+✔ CRUD Operations<br>
+✔ Java Swing<br>
+✔ MySQL Database<br>
+✔ Search Student<br>
+✔ Update / Delete
+</p>
+
+<p>
+<code>Java</code>
+<code>MySQL</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>✅ TO-DO PLANNER</strong></p>
+
+<p><i>Simple and responsive task management application.</i></p>
+
+<br>
+
+<p>
+✔ Task Management<br>
+✔ Add / Edit / Delete<br>
+✔ Responsive Design<br>
+✔ Local Storage
+</p>
+
+<p>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🎮 TIC TAC TOE</strong></p>
+
+<p><i>Interactive two-player browser game.</i></p>
+
+<br>
+
+<p>
+✔ Two Player<br>
+✔ Winner Detection<br>
+✔ Responsive Design<br>
+✔ Clean UI
+</p>
+
+<p>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00C853,50:00BCD4,100:2979FF"/>
+</div>
+
+<br>
+
+<a id="-development-journey"></a>
+
+<div align="center">
+
+<p><strong>📈 DEVELOPMENT JOURNEY</strong></p>
+
+<p><i>A timeline of my learning and development.</i></p>
+
+<br>
+
+<table width="92%">
+<tr>
+<td width="20%" align="center"><strong>YEAR</strong></td>
+<td width="80%" align="center"><strong>MILESTONE</strong></td>
+</tr>
+
+<tr>
+<td align="center"><strong>2022</strong></td>
+<td>🎓 Started B.E. Computer Science Engineering</td>
+</tr>
+<tr>
+<td align="center"><strong>2023</strong></td>
+<td>🌐 Learned Web Technologies & Built Mini Projects</td>
+</tr>
+<tr>
+<td align="center"><strong>2024</strong></td>
+<td>☕ Strengthened Java, SQL & Database Development</td>
+</tr>
+<tr>
+<td align="center"><strong>2025</strong></td>
+<td>⚛️ Explored React & Built Full Stack Projects</td>
+</tr>
+<tr>
+<td align="center"><strong>2026</strong></td>
+<td>🚀 Graduated & Preparing for Software Engineering Roles</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:2979FF,50:00BCD4,100:00C853"/>
+</div>
+<br>
+<div align="center">
+<p><strong>🏆 ACHIEVEMENTS</strong></p>
+<br>
+<table width="92%">
+<tr>
+<td width="50%" align="center">
+🥇<br> <strong>Project Presentation Winner</strong>
+</td>
+<td width="50%" align="center">
+🏅<br> <strong>Symposium Participant</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+💻<br> <strong>Coders Club Coordinator</strong>
+
+</td>
+
+<td width="50%" align="center">
+
+🎯<br> <strong>Team Project Leader</strong>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+🤝<br> <strong>Team Collaboration</strong>
+
+</td>
+
+<td width="50%" align="center">
+
+🚀<br> <strong>Continuous Learning</strong>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00C853,50:00BCD4,100:2979FF"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<p><strong>🎓 EDUCATION & LEADERSHIP</strong></p>
+
+<br>
+
+<table width="92%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🎓 EDUCATION</strong></p>
+<br>
+<strong>B.E. Computer Science Engineering</strong>
+<br>
+Velammal Engineering College
+<br>
+✅ Graduated
+<br>
+<strong>🏫 HIGHER SECONDARY</strong>
+<br>
+Completed ✅
+<br>
+<strong>🏫 SSLC</strong>
+<br>
+Completed ✅
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<p><strong>🌟 LEADERSHIP</strong></p>
+
+<br>
+💼 Coders Club Coordinator
+<br>
+👨‍💻 Guided Junior Students
+<br>
+
+🤝 Organized Coding Activities
+<br>
+📢 Coordinated Technical Events
+<br>
+🚀 Encouraged Collaborative Learning
+</td>
+</tr>
+</table>
+
+<br>
+
+<p><strong>🥋 SPORTS & EXTRACURRICULAR</strong></p>
+
+<p>
+🏅 Athletics
+&nbsp; • &nbsp;
+🥋 Silambam
+&nbsp; • &nbsp;
+🏃 Marathon
+&nbsp; • &nbsp;
+🥋 Karate
+&nbsp; • &nbsp;
+🇮🇳 NCC Activities & Camps
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:00C853,40:00BCD4,70:2979FF,100:0D47A1&section=header&text=GITHUB%20ANALYTICS&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<br>
+
+<a id="-github-analytics"></a>
+
+<div align="center">
+
+<p><strong>📊 GITHUB ANALYTICS</strong></p>
+
+<p><i>Consistency • Contribution • Growth</i></p>
+
+<br>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree0305&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree0305&theme=tokyonight"/>
+
+<br>
+
+<p><strong>📈 CONTRIBUTION GRAPH</strong></p>
+
+<br>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasree0305&theme=react-dark&hide_border=true"/>
+
+<br>
+
+<p><strong>🐍 CONTRIBUTION SNAKE</strong></p>
+
+<p><i>Enable GitHub Actions to generate this animation automatically.</i></p>
+
+<img src="https://raw.githubusercontent.com/subhasree0305/subhasree0305/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img width="92%" height="5" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:2979FF,50:00BCD4,100:00C853"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<p><strong>💭 DEVELOPER WISDOM</strong></p>
+
+<br>
+<p>
+<i>"Code is like humour. When you have to explain it, it's bad."</i><strong>— Cory House</strong>
+</p>
+<p>
+<i>"First, solve the problem. Then, write the code."</i> <strong>— John Johnson</strong>
+</p>
+<p>
+<i>"Learning never exhausts the mind—it expands it."</i>
+</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="92%" height="7" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:2979FF,50:00BCD4,100:00C853"/>
+
+<br>
+
+<p><strong>💙 THANKS FOR VISITING MY PROFILE!</strong></p>
+<p>✨ Thanks for taking the time to explore my GitHub!</p>
+<p>
+I'm always learning, building, experimenting, and improving.
+</p>
+<p>
+<strong>If you find something interesting in my projects, feel free to ⭐ the repository!</strong>
+</p>
+
+<br>
+
+<a href="https://github.com/subhasree0305">
+<img src="https://img.shields.io/badge/⭐_EXPLORE_MY_GITHUB-2979FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+
+<a href="https://subhasree-portfolio.web.app">
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=subhasree0305&label=PROFILE%20VISITORS&style=for-the-badge&color=2979FF"/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:0D47A1,40:2979FF,70:00BCD4,100:00C853"/>
+
+</div>
+
+<!-- ===================================================== -->
+
+<!--                 END OF README                          -->
+
+<!-- ===================================================== -->
