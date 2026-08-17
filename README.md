@@ -17,19 +17,6 @@
 
 
 </div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=subhasree0305&style=for-the-badge&color=00C853)
-
-![](https://img.shields.io/github/followers/subhasree0305?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/subhasree0305?style=for-the-badge)
-
-</div>
-
 ---
 
 # 🌟 Welcome
@@ -73,7 +60,7 @@ I believe in writing **clean code**, designing **responsive interfaces**, and co
 
 <tr>
 
-<td width="55%">
+<td>
 
 ### 💙 Who Am I?
 
@@ -135,144 +122,6 @@ public class CareerGoal {
 ```
 
 ---
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://subhasree-portfolio.web.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/subhasree0305">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:msubhasreecse145@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/subhasree0305">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-
-
-</div>
-
-> Replace the `#` links above with your actual profile URLs.
-
----
-
-# 💡 Fun Facts
-
-✨ I enjoy turning ideas into real-world applications.
-
-🚀 I love learning new technologies every day.
-
-🎯 My goal is to become a highly skilled Software Engineer.
-
-💙 Coffee + Code + Consistency = Growth ☕
-
----
-
-<div align="center">
-
-### ⭐ "Dream. Build. Learn. Repeat."
-
-
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://subhasree-portfolio.web.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/subhasree0305">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:msubhasreecse145@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/subhasree0305">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
-> Replace the `#` links above with your actual profile URLs.
-
----
-
-# 💡 Fun Facts
-
-✨ I enjoy turning ideas into real-world applications.
-
-🚀 I love learning new technologies every day.
-
-🎯 My goal is to become a highly skilled Software Engineer.
-
-💙 Coffee + Code + Consistency = Growth ☕
-
----
-
-<div align="center">
-
-### ⭐ "Dream. Build. Learn. Repeat."
-
-<h1 align="center">
-⚡ Tech Universe
-</h1>
 
 <p align="center">
 <i>Technologies I use to transform ideas into real-world applications.</i>
