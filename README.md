@@ -15,7 +15,6 @@
 
 # 👋 Hello World! I'm Subha Sree M
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;React+Developer;Spring+Boot+Learner;Building+Scalable+Applications;Always+Learning+Something+New+🚀"/>
 
 </div>
 
@@ -98,11 +97,7 @@ I believe in writing **clean code**, designing **responsive interfaces**, and co
 
 </td>
 
-<td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhasree0305&show_icons=true&theme=tokyonight"/>
-
-</td>
 
 </tr>
 
@@ -110,59 +105,6 @@ I believe in writing **clean code**, designing **responsive interfaces**, and co
 
 ---
 
-# 🚀 Current Focus
-
-<table>
-
-<tr>
-
-<td>
-
-🟢 Building Full Stack Projects
-
-</td>
-
-<td>
-
-🟢 Learning Spring Boot
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🟢 Improving DSA
-
-</td>
-
-<td>
-
-🟢 Preparing for Product Companies
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🟢 Exploring REST APIs
-
-</td>
-
-<td>
-
-🟢 Writing Clean Code
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -234,9 +176,7 @@ public class CareerGoal {
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+
 
 </div>
 
@@ -260,203 +200,7 @@ public class CareerGoal {
 
 ### ⭐ "Dream. Build. Learn. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:00BCD4,100:2979FF&height=3"/>
 
-</div>
-
-<!-- ================= END OF PART 1 ================= --><!-- ===================================================== -->
-<!--                PREMIUM GITHUB README                  -->
-<!--                     PART 1                            -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C853,50:00BCD4,100:2979FF&text=SUBHA%20SREE%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20React%20Developer%20•%20Problem%20Solver&descAlignY=58"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 👋 Hello World! I'm Subha Sree M
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;React+Developer;Spring+Boot+Learner;Building+Scalable+Applications;Always+Learning+Something+New+🚀"/>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=subhasree0305&style=for-the-badge&color=00C853)
-
-![](https://img.shields.io/github/followers/subhasree0305?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/subhasree0305?style=for-the-badge)
-
-</div>
-
----
-
-# 🌟 Welcome
-
-> **"Programming is not just about writing code.  
-> It is about solving problems, creating value, and continuously improving."**
-
-I'm **Subha Sree M**, a passionate **Java Full Stack Developer** from **India 🇮🇳** who enjoys creating beautiful, scalable, and user-friendly applications.
-
-I believe in writing **clean code**, designing **responsive interfaces**, and continuously expanding my technical knowledge through real-world projects.
-
----
-
-# 🚀 Quick Navigation
-
-<p align="center">
-
-<a href="#-about-me">
-<img src="https://img.shields.io/badge/About_Me-00C853?style=for-the-badge"/>
-</a>
-
-<a href="#-current-focus">
-<img src="https://img.shields.io/badge/Current_Focus-2196F3?style=for-the-badge"/>
-</a>
-
-<a href="#-connect-with-me">
-<img src="https://img.shields.io/badge/Connect-FF9800?style=for-the-badge"/>
-</a>
-
-<a href="#-coding-profiles">
-<img src="https://img.shields.io/badge/Coding_Profiles-E91E63?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 👨‍💻 About Me
-
-<table>
-
-<tr>
-
-<td width="55%">
-
-### 💙 Who Am I?
-
-🎓 Computer Science Engineering Graduate
-
-💻 Java Full Stack Developer
-
-⚛️ React Developer
-
-🌱 Spring Boot Learner
-
-📚 Strong in Java, SQL & Web Technologies
-
-🚀 Passionate about Full Stack Development
-
-🧠 Love solving real-world problems
-
-🤝 Team Player & Fast Learner
-
-🎯 Looking for Software Engineer Opportunities
-
-</td>
-
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhasree0305&show_icons=true&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 Current Focus
-
-<table>
-
-<tr>
-
-<td>
-
-🟢 Building Full Stack Projects
-
-</td>
-
-<td>
-
-🟢 Learning Spring Boot
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🟢 Improving DSA
-
-</td>
-
-<td>
-
-🟢 Preparing for Product Companies
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🟢 Exploring REST APIs
-
-</td>
-
-<td>
-
-🟢 Writing Clean Code
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Career Objective
-
-```java
-public class CareerGoal {
-
-    public static void main(String[] args){
-
-        while(true){
-
-            Learn();
-
-            Build();
-
-            Improve();
-
-            ShareKnowledge();
-
-            Repeat();
-
-        }
-
-    }
-
-}
-```
 
 ---
 
@@ -525,17 +269,6 @@ public class CareerGoal {
 <div align="center">
 
 ### ⭐ "Dream. Build. Learn. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:00BCD4,100:2979FF&height=3"/>
-
-</div>
-
-<!-- ================= END OF PART 1 ================= -->
-<!-- ====================================================== -->
-<!--                 PREMIUM README - PART 2                -->
-<!-- ====================================================== -->
-
-<br>
 
 <h1 align="center">
 ⚡ Tech Universe
@@ -629,165 +362,11 @@ public class CareerGoal {
 
 ---
 
-# 📊 Skills Dashboard
 
-| Technology | Level | Progress |
-|------------|------|----------|
-| ☕ Java | Advanced | 🟩🟩🟩🟩🟩 |
-| ⚛ React | Intermediate | 🟩🟩🟩🟩⬜ |
-| 🌱 Spring Boot | Learning | 🟩🟩🟩⬜⬜ |
-| 🌐 HTML5 | Expert | 🟩🟩🟩🟩🟩 |
-| 🎨 CSS3 | Expert | 🟩🟩🟩🟩🟩 |
-| ⚡ JavaScript | Advanced | 🟩🟩🟩🟩⬜ |
-| 🗄 MySQL | Advanced | 🟩🟩🟩🟩🟩 |
-| 🔥 Firebase | Intermediate | 🟩🟩🟩🟩⬜ |
-| 🐙 Git & GitHub | Advanced | 🟩🟩🟩🟩⬜ |
-
----
-
-# 🌱 Learning Roadmap
-
-```text
-✅ HTML5
-        │
-        ▼
-
-✅ CSS3
-        │
-        ▼
-
-✅ JavaScript
-        │
-        ▼
-
-✅ React
-        │
-        ▼
-
-🟢 REST APIs
-        │
-        ▼
-
-🟢 Spring Boot
-        │
-        ▼
-
-🟡 Microservices
-        │
-        ▼
-
-🟡 Docker
-        │
-        ▼
-
-🔵 AWS Cloud
-        │
-        ▼
-
-🎯 Software Engineer
-```
 
 ---
 
 # 💼 What I Build
-
-<table>
-
-<tr>
-
-<td align="center">
-
-🌐
-
-### Responsive Websites
-
-Modern UI
-
-Mobile Friendly
-
-Fast Loading
-
-</td>
-
-<td align="center">
-
-⚛
-
-### React Applications
-
-SPA
-
-Reusable Components
-
-Responsive Design
-
-</td>
-
-<td align="center">
-
-☕
-
-### Java Applications
-
-CRUD
-
-Authentication
-
-Database Integration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🗄
-
-### Database Design
-
-MySQL
-
-SQL Queries
-
-Optimization
-
-</td>
-
-<td align="center">
-
-🔥
-
-### REST APIs
-
-JSON
-
-HTTP
-
-Spring Boot
-
-</td>
-
-<td align="center">
-
-🚀
-
-### Full Stack Projects
-
-Frontend
-
-Backend
-
-Deployment
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🛠 Development Environment
 
@@ -823,50 +402,6 @@ API Testing:
     Postman
 ```
 
----
-
-# 📊 My Development Workflow
-
-```text
-💡 Idea
-   │
-   ▼
-📝 Planning
-   │
-   ▼
-🎨 UI Design
-   │
-   ▼
-💻 Frontend
-   │
-   ▼
-☕ Backend
-   │
-   ▼
-🗄 Database
-   │
-   ▼
-🧪 Testing
-   │
-   ▼
-🚀 Deployment
-```
-
----
-
-# 💻 Current Learning
-
-<div align="center">
-
-| 🚀 Technology | Progress |
-|---------------|----------|
-| Spring Boot | ███████░░░ 75% |
-| REST APIs | ████████░░ 80% |
-| DSA | ███████░░░ 72% |
-| Microservices | ████░░░░░░ 40% |
-| Docker | ███░░░░░░░ 30% |
-
-</div>
 
 ---
 
@@ -1213,25 +748,6 @@ API Testing:
 
 ---
 
-# 🌱 Currently Exploring
-
-```text
-☕ Spring Boot
-████████████████░░░░ 80%
-
-🌐 REST APIs
-█████████████████░░░ 85%
-
-🐳 Docker
-██████░░░░░░░░░░░░░░ 35%
-
-☁ AWS
-████░░░░░░░░░░░░░░░░ 20%
-
-🧠 Data Structures
-████████████████░░░░ 80%
-```
-
 ---
 
 <div align="center">
@@ -1259,7 +775,6 @@ API Testing:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhasree0305&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree0305&theme=tokyonight&hide_border=true"/>
 
@@ -1269,7 +784,6 @@ API Testing:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree0305&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree0305&theme=tokyonight"/>
 
@@ -1277,13 +791,6 @@ API Testing:
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subhasree0305&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
 
 ---
 
@@ -1307,56 +814,6 @@ API Testing:
 
 </div>
 
----
-
-# ⚡ Developer Dashboard
-
-<div align="center">
-
-| 💻 Category | 🚀 Status |
-|-------------|-----------|
-| ☕ Java | 🟢 Advanced |
-| ⚛ React | 🟢 Intermediate |
-| 🌱 Spring Boot | 🟡 Learning |
-| 🗄 SQL & MySQL | 🟢 Advanced |
-| 🔥 Firebase | 🟢 Intermediate |
-| 🌐 Frontend Development | 🟢 Strong |
-| 🔧 Backend Development | 🟡 Growing |
-| 🧠 Problem Solving | 🟢 Daily Practice |
-
-</div>
-
----
-
-# 🌍 Open Source Goals
-
-```text
-🎯 Build impactful Full Stack applications
-
-⭐ Contribute to Open Source
-
-📚 Learn Cloud & DevOps
-
-🚀 Master Spring Boot
-
-🧠 Improve DSA
-
-💼 Become a Software Engineer
-```
-
----
-
-# 📅 2026 Goals
-
-- ✅ Secure a Software Engineer role
-- ✅ Master Spring Boot & REST APIs
-- ✅ Learn Docker & Kubernetes
-- ✅ Build 10+ production-ready projects
-- ✅ Contribute to Open Source
-- ✅ Solve 500+ DSA problems
-- ✅ Grow my GitHub portfolio
-
----
 
 # 💬 Random Developer Wisdom
 
