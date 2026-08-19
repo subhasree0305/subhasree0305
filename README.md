@@ -665,9 +665,6 @@ Completed ✅
 
 <p><i>Enable GitHub Actions to generate this animation automatically.</i></p>
 
-<img src="https://raw.githubusercontent.com/subhasree0305/subhasree0305/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
 
 <br>
 
