@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D47A1,35:2979FF,70:00BCD4,100:00C853&text=SUBHA%20SREE%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20REACT%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=59&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D47A1,35:2979FF,70:00BCD4,100:00C853&text=SUBHA%20SREE%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=59&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=00E676&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Learner;Problem+Solver;C%23+Learner;Building+Real-World+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=00E676&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;WEB+Developer;Spring+Boot+Learner;Problem+Solver;C%23+Learner;Building+Real-World+Applications"/>
 
 <br><br>
 
@@ -643,11 +643,6 @@ Completed ✅
 
 <p><i>Consistency • Contribution • Growth</i></p>
 
-<br>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree0305&theme=tokyonight&hide_border=true"/>
-
-<br>
 
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree0305&theme=tokyonight"/>
 
